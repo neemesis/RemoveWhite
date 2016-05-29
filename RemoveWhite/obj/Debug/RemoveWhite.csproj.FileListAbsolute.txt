@@ -1,0 +1,16 @@
+E:\Workspace\VisualStudio\UniversalWindows\RemoveWhite\RemoveWhite\bin\Debug\RemoveWhite.exe.config
+E:\Workspace\VisualStudio\UniversalWindows\RemoveWhite\RemoveWhite\bin\Debug\RemoveWhite.exe
+E:\Workspace\VisualStudio\UniversalWindows\RemoveWhite\RemoveWhite\bin\Debug\RemoveWhite.pdb
+E:\Workspace\VisualStudio\UniversalWindows\RemoveWhite\RemoveWhite\obj\Debug\RemoveWhite.csprojResolveAssemblyReference.cache
+E:\Workspace\VisualStudio\UniversalWindows\RemoveWhite\RemoveWhite\obj\Debug\RemoveWhite.Form1.resources
+E:\Workspace\VisualStudio\UniversalWindows\RemoveWhite\RemoveWhite\obj\Debug\RemoveWhite.Properties.Resources.resources
+E:\Workspace\VisualStudio\UniversalWindows\RemoveWhite\RemoveWhite\obj\Debug\RemoveWhite.csproj.GenerateResource.Cache
+E:\Workspace\VisualStudio\UniversalWindows\RemoveWhite\RemoveWhite\obj\Debug\RemoveWhite.exe
+E:\Workspace\VisualStudio\UniversalWindows\RemoveWhite\RemoveWhite\obj\Debug\RemoveWhite.pdb
+E:\Workspace\VisualStudio\UniversalWindows\RemoveWhite\RemoveWhite\bin\Debug\RemoveWhite.exe.manifest
+E:\Workspace\VisualStudio\UniversalWindows\RemoveWhite\RemoveWhite\bin\Debug\RemoveWhite.application
+E:\Workspace\VisualStudio\UniversalWindows\RemoveWhite\RemoveWhite\obj\Debug\RemoveWhite.exe.manifest
+E:\Workspace\VisualStudio\UniversalWindows\RemoveWhite\RemoveWhite\obj\Debug\RemoveWhite.application
+E:\Workspace\VisualStudio\WindowsFormsApplication\RemoveWhite\RemoveWhite\bin\Debug\RemoveWhite.exe.config
+E:\Workspace\VisualStudio\WindowsFormsApplication\RemoveWhite\RemoveWhite\obj\Debug\RemoveWhite.exe
+E:\Workspace\VisualStudio\WindowsFormsApplication\RemoveWhite\RemoveWhite\obj\Debug\RemoveWhite.pdb
